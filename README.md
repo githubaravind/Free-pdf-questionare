@@ -147,7 +147,7 @@ Then reference them here:
 
 ## 👤 Author
 
-**Sanjana Reddy**
+**Aravind Reddy**
 AI / Data Engineer | GenAI Enthusiast
 
 ---
